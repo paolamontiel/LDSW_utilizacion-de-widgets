@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365163368504",
+    "project_id": "app-peliculas-aa110",
+    "storage_bucket": "app-peliculas-aa110.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365163368504:android:b2b9538171b4ff4747d6cd",
+        "android_client_info": {
+          "package_name": "com.paolamontiel.catalogo_peliculas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8qTI67ow0R2s5hVXuLKt1TkMgQJ37wPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
